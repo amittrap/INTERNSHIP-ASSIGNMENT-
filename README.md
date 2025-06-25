@@ -1,59 +1,70 @@
-# INTERNSHIP-ASSIGNMENT-
-List of all the assignment  that I  have done in internship in Elevate Labs
-# 📂 Day 1 - Network Scanning and Packet Capture
+# 🛡️ Cybersecurity Internship – Elevate Labs
 
-## 👤 Intern: Amit Maurya  
-## 📅 Date: 23/06/2025  
+Welcome to my cybersecurity internship project repository!  
+This repository contains all the daily tasks I’ve completed as part of my internship at **Elevate Labs**, focused on developing real-world cybersecurity skills.
 
 ---
 
-## 📖 Assignment Overview
-This repository contains the **Day 1 assignment** of my internship. The assignment focuses on understanding **network scanning, open ports, services, and basic exploitation techniques** using the following tools:
-- **Nmap** for port scanning
-- **Zenmap** for visual scanning and report generation
-- **Wireshark** for packet capture and analysis
+## 🎯 Objective
+
+To build hands-on experience in various domains of cybersecurity, including:
+- Network scanning
+- Email threat analysis
+- Digital forensics
+- OSINT
+- Vulnerability detection
+- Reporting & documentation
 
 ---
 
-## 📝 Topics Covered
-- What is an IP Address?
-- Understanding Ports and Services
-- Open Ports and Their Risks
-- Introduction to Nmap and Zenmap
-- Packet Capturing Using Wireshark
-- Explanation of Identified Ports and Exploitation Methods
-- Answers to Common Interview Questions Related to Port Scanning and Security
+## 📁 Repository Structure
 
----
- Tools Used
-- **Nmap**
-- **Zenmap**
-- **Wireshark**
+Each task has been documented and organized by day and topic.
 
----
- Files Included
-- `Assignment_Report.pdf` – Detailed explanation of Day 1 assignment  
-- `Nmap_Scan_Results.xml` – XML scan report from Zenmap  
-- `Wireshark_Packet_Capture.pcapng` – Captured packets from Wireshark  
-- `Screenshots/` – Relevant screenshots of the scan and analysis  
-- `README.md` – This project description file
+| Folder / File | Description |
+|---------------|-------------|
+| `network_scanning_day1/` | PDF report and details on basic network scanning techniques |
+| `phishing_scan_day1.pdf` | Phishing email analysis report (Day 1) |
+| `phishing_scan_day2/` | In-depth phishing investigation with screenshots and report |
+| *(More folders coming as internship progresses)* |  |
 
 ---
 
-## 📌 Key Learnings
-- How to perform network scanning using Nmap and Zenmap.
-- How to identify open ports and associated services.
-- How to capture and analyze packets using Wireshark.
-- How to understand the security risks associated with open ports.
-- Theoretical methods to exploit common open ports.
+## 📄 File Types Included
+- 📘 PDF Reports
+- 📷 Screenshots of scans/emails
+- 📄 Markdown documentation
+
+---
+
+## 🔧 Tools & Techniques Used
+- **Nmap**, **Wireshark**, **tcpdump** (network analysis)
+- **PhishTank**, **VirusTotal**, **Google Header Analyzer** (email forensics)
+- **Kali Linux**, **Burp Suite**, **OSINT Framework**
+- Manual threat analysis and structured report writing
 
 ---
 
 ## ✅ Status
-✔️ **Day 1 Assignment Completed and Uploaded.**
+- 🚀 Ongoing – Daily tasks will be uploaded regularly.
+- 🗂️ Organized by task and clearly named for easy reference.
 
+---
 
- Contact
-For any queries, reach out to me at:
-Name : Amit Maurya
-Email amitmauryash@gmail.com
+## 🙋‍♂️ About Me
+
+I’m currently interning at **Elevate Labs** and using this opportunity to grow my hands-on cybersecurity skills. This repository serves as a daily learning journal and portfolio of my progress.
+
+Feel free to explore, learn, and connect!
+
+---
+
+## 📬 Contact
+
+**GitHub:** (https://github.com/amittrap)  
+**LinkedIn:** https://www.linkedin.com/in/amit-maurya-cyber3sec/
+**Email:** amitmauryash@gmail.com 
+
+---
+
+> ⚠️ This project is for educational and demonstration purposes only. No real user data is included. All phishing samples are from safe sources like PhishTank or simulated.
