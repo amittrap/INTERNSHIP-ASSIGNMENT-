@@ -53,7 +53,7 @@ Each task has been documented and organized by day and topic.
 
 ## 🙋‍♂️ About Me
 
-I’m currently interning at **Elevate Labs** and using this opportunity to grow my hands-on cybersecurity skills. This repository serves as a daily learning journal and portfolio of my progress.
+I’m currently studying in Amity University Uttar pradesh pursuing master's degree in Cyber Security & Cyber Forensic and as a part time interning at **Elevate Labs** and using this opportunity to grow my hands-on cybersecurity skills. This repository serves as a daily learning journal and portfolio of my progress.
 
 Feel free to explore, learn, and connect!
 
