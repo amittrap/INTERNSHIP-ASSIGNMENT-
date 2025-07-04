@@ -1,70 +1,52 @@
-# 🛡️ Cybersecurity Internship – Elevate Labs
+#  Cybersecurity Internship Assignments – Elevate Labs
 
-Welcome to my cybersecurity internship project repository!  
-This repository contains all the daily tasks I’ve completed as part of my internship at **Elevate Labs**, focused on developing real-world cybersecurity skills.
+Welcome to my **Cybersecurity Internship Project Repository**!  
+This repository contains all the tasks I have completed over the past two weeks as part of my cybersecurity internship at **Elevate Labs**.
 
----
-
-## 🎯 Objective
-
-To build hands-on experience in various domains of cybersecurity, including:
-- Network scanning
-- Email threat analysis
-- Digital forensics
-- OSINT
-- Vulnerability detection
-- Reporting & documentation
+Each task is organized into its own dedicated folder with detailed reports, screenshots, and supporting files.
 
 ---
 
-## 📁 Repository Structure
+## 📂 Repository Structure
+```plaintext
+INTERNSHIP-ASSIGNMENT-/
+├── EXTENSION VERIFICATION DAY 7
+├── Firewall configuration
+├── NESSUS ESSENTIAL
+├── Network_Scanning_Day1
+├── VPN Hands-On and Security Understanding Day 8
+├── packet analysis day 5
+├── password stength analysis Day 6
+├── phishing_scan_day2
+└── README.md
 
-Each task has been documented and organized by day and topic.
+| Task No. | Assignment                                    | Description                                                                                     | Status      |
+| -------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
+| Task 1   | Network Scanning Day 1                        | Performed network scanning using various tools to identify active hosts and open ports.         | ✅ Completed |
+| Task 2   | Phishing Scan Day 2                           | Conducted phishing scan and analysis to understand phishing techniques and detection.           | ✅ Completed |
+| Task 3   | Packet Analysis Day 5                         | Analyzed captured packets to study traffic flow and potential vulnerabilities.                  | ✅ Completed |
+| Task 4   | Password Strength Analysis Day 6              | Evaluated password security and tested password strength using different methods.               | ✅ Completed |
+| Task 5   | Extension Verification Day 7                  | Investigated and analyzed suspicious browser extensions to assess potential risks.              | ✅ Completed |
+| Task 6   | VPN Hands-On and Security Understanding Day 8 | Hands-on VPN setup, IP verification, encryption analysis, and privacy protection understanding. | ✅ Completed |
+| Task 7   | Nessus Essential                              | Explored Nessus for vulnerability scanning and essential configurations.                        | ✅ Completed |
+| Task 8   | Firewall Configuration                        | Learned and configured firewall rules to secure the system.                                     | ✅ Completed |
 
-| Folder / File | Description |
-|---------------|-------------|
-| `network_scanning_day1/` | PDF report and details on basic network scanning techniques |
-| `phishing_scan_day1.pdf` | Phishing email analysis report (Day 1) |
-| `phishing_scan_day2/` | In-depth phishing investigation with screenshots and report |
-| *(More folders coming as internship progresses)* |  |
 
----
+🛠️ Tools Used
+Nessus Essentials
+Wireshark
+ProtonVPN
+Google Chrome
+GitHub
+Various Phishing and Scanning tools
 
-## 📄 File Types Included
-- 📘 PDF Reports
-- 📷 Screenshots of scans/emails
-- 📄 Markdown documentation
+✍️ Author
+Amit Maurya
+Cybersecurity Intern
+Amity University, Noida
 
----
+📬 Contact
+📧 Email: amitmauryash@gmail.com
 
-## 🔧 Tools & Techniques Used
-- **Nmap**, **Wireshark**, **tcpdump** (network analysis)
-- **PhishTank**, **VirusTotal**, **Google Header Analyzer** (email forensics)
-- **Kali Linux**, **Burp Suite**, **OSINT Framework**
-- Manual threat analysis and structured report writing
 
----
 
-## ✅ Status
-- 🚀 Ongoing – Daily tasks will be uploaded regularly.
-- 🗂️ Organized by task and clearly named for easy reference.
-
----
-
-## 🙋‍♂️ About Me
-
-I’m currently studying in Amity University Uttar pradesh pursuing master's degree in Cyber Security & Cyber Forensic and as a part time interning at **Elevate Labs** and using this opportunity to grow my hands-on cybersecurity skills. This repository serves as a daily learning journal and portfolio of my progress.
-
-Feel free to explore, learn, and connect!
-
----
-
-## 📬 Contact
-
-**GitHub:** (https://github.com/amittrap)  
-**LinkedIn:** https://www.linkedin.com/in/amit-maurya-cyber3sec/
-**Email:** amitmauryash@gmail.com 
-
----
-
-> ⚠️ This project is for educational and demonstration purposes only. No real user data is included. All phishing samples are from safe sources like PhishTank or simulated.
