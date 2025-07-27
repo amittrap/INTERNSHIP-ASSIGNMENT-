@@ -1,0 +1,6 @@
+pynput
+pyperclip
+pyscreenshot
+pynput
+pyperclip
+pyscreenshot

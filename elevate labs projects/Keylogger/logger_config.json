@@ -1,0 +1,11 @@
+{
+  "log_directory": "logs",
+  "log_level": "DEBUG",
+  "log_format": "%(asctime)s - %(levelname)s - %(message)s",
+  "screenshot_enabled": true,
+  "screenshot_interval_seconds": 60,
+  "clipboard_logging_enabled": true,
+  "clipboard_interval_seconds": 10,
+  "log_keystrokes": true,
+  "include_system_info": true
+}

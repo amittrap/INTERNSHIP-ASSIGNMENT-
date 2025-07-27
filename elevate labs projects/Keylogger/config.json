@@ -1,0 +1,8 @@
+{
+  "sender_email": "botmtcamity@gmail.com",
+  "app_password": "dozjyhvjfjpjypag",
+  "recipient_email": "amitmauryash@gmail.com",
+  "smtp_server": "smtp.gmail.com",
+    "smtp_port": 465,
+    "interval_minutes": 3
+}
